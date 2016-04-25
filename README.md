@@ -1,5 +1,5 @@
 to run use :
-sbt "run <your path file here>"
+sbt "run 'your path file here'"
 
 to run tests :
 
